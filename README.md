@@ -96,6 +96,12 @@
 <!-- Stats -->
 <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">🏅 Stats</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=YeRimmm-Cho&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeRimmm-Cho&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YeRimmm-Cho&show_icons=true&theme=dracula" 
+    alt="GitHub stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeRimmm-Cho&layout=compact&theme=dracula" 
+    alt="Top Langs" 
+  />
 </div>
