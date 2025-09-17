@@ -6,7 +6,7 @@
 ## 🎓 Education
 - 동국대학교 회계학과 (2019.03 ~ 2025.08, 졸업)
 - 동국대학교 융합소프트웨어 연계전공 (2023.09 ~ 2025.08, 졸업)
-- SSAFY (삼성 청년 SW·AI 아카데미) 14기 (2025.01 ~ 진행 중)
+- 삼성 청년 SW·AI 아카데미 SSAFY 14기 (2025.01 ~ 진행 중)
 
 <br>
 
@@ -22,7 +22,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) 
   ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/신한해커톤_FE) \| [Demo](https://링크넣기)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/shinhan_hackathon_FE) \| [Demo](https://www.youtube.com/shorts/6i-mFkp4MJI)
 
 <br>
 
@@ -32,7 +32,7 @@
 - 사용자 중심 설계: 버튼형 입력 → 추천 → 일정 확인 프로세스 완성  
 - **Tech**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/신한해커톤_FE) \| [Demo](https://링크넣기)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/jjambbong_FE) \| [Demo](youtube.com/watch?v=xXba5srjkrQ&feature=youtu.be)
 
 <br>
 
@@ -42,7 +42,7 @@
 - 조리 단계별 음성 안내 기능(TTS) 직접 연동  
 - **Tech**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/신한해커톤_FE) \| [Demo](https://링크넣기)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/FLOW_FE)
 
 <br>
 
@@ -54,7 +54,7 @@
 - **Tech**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/조각집)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/jogaczip_CYR)
 
 <br>
 
@@ -64,7 +64,7 @@
 - MBTI·생활 습관 설문 반영 / 매칭 오류 디버깅 / 설문 UI 흐름 개선  
 - **Tech**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/조각집)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/OSSProjCYR)
 <br><br>
 
 <!-- Tech Stacks -->
