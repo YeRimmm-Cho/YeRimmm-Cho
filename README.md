@@ -54,7 +54,7 @@
 - **Tech**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/jogaczip_CYR)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/jogaczip_CYR)\| [Demo1](https://www.youtube.com/shorts/2raDkWlSv1c)| [Demo2](https://www.youtube.com/shorts/YWlupyA0A_I)
 
 <br>
 
