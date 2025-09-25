@@ -54,7 +54,7 @@
 - **Tech**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/jogaczip_CYR)\| [Demo1](https://www.youtube.com/shorts/2raDkWlSv1c)| [Demo2](https://www.youtube.com/shorts/YWlupyA0A_I)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/jogaczip_CYR)\
 
 <br>
 
@@ -64,7 +64,7 @@
 - MBTI·생활 습관 설문 반영 / 매칭 오류 디버깅 / 설문 UI 흐름 개선  
 - **Tech**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-- **Links**: [Repo](https://github.com/YeRimmm-Cho/OSSProjCYR)
+- **Links**: [Repo](https://github.com/YeRimmm-Cho/OSSProjCYR)| [Demo1](https://www.youtube.com/shorts/2raDkWlSv1c)| [Demo2](https://www.youtube.com/shorts/YWlupyA0A_I)
 <br><br>
 
 <!-- Tech Stacks -->
